@@ -8,7 +8,9 @@ Release your hands &amp; protect your liver!
 本脚本是处于个人使用为目的的, 一切以简单实用为主，尽可能避免进行图片分析。并且在以下环境通过测试：
 
 模拟器: BlueStacks4.80
+
 OS: Windows7 x64
+
 模拟器分辨率: 1280*720
 
 
