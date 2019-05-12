@@ -1,3 +1,4 @@
+![bound](https://github.com/SakakiYukiho/onmeji-script/bound.jpeg)
 # onmeji-script
 Release your hands &amp; protect your liver!
 
@@ -5,7 +6,7 @@ Release your hands &amp; protect your liver!
 此脚本帮助学生党手机不在身边是也能每天收体力、祈愿碎片、签到、收勾玉等操作。
 
 ## environment
-本脚本是处于个人使用为目的的, 一切以简单实用为主，尽可能避免进行图片分析。并且在以下环境通过测试：
+本脚本基于个人使用, 以简单实用为主，尽可能避免进行图片分析。并且在以下环境通过测试：
 
 
 |||  
@@ -20,9 +21,9 @@ Release your hands &amp; protect your liver!
 目前具有的功能:
 
 - 结界收体力
-- 每日祈愿碎片(under development)
-- 签到(under development)
-- 领勾玉(under development)
+- 每日祈愿碎片
+- 签到
+- 领勾玉
 
 ## License
 MIT
