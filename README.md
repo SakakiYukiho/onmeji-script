@@ -1,4 +1,4 @@
-![bound](https://github.com/SakakiYukiho/onmeji-script/bound.jpeg)
+![bound](https://github.com/SakakiYukiho/onmeji-script/blob/master/bound.jpeg)
 # onmeji-script
 Release your hands &amp; protect your liver!
 
